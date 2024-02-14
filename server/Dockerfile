@@ -1,0 +1,1 @@
+FROM jetbrains/teamcity-server

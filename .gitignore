@@ -1,0 +1,3 @@
+.DS_Store
+server/data/teamcity_server/datadir/*
+server/logs/*
